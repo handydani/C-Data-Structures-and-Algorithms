@@ -1,3 +1,4 @@
+// Depth first search for graph implementation
 #include<stdio.h>
  
 void DFS(int);
